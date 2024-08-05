@@ -91,7 +91,14 @@ button{
     color: white;
 }
 
-
+footer{
+    width: 70%;
+    text-align: center;
+}
+footer a{
+    text-decoration: none;
+    font-weight: bolder;
+}
 
 .item{
     flex: 1;
