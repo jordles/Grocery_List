@@ -2,6 +2,8 @@
 
 This assignment focused on OOP practices. We made a grocery list that you can add items to and edit dynamically. Items are saved using Local Storage. 
 
+[Demo](https://jordles.github.io/Grocery_List/)
+
 # How its Made
 
 Tech Used: HTML, CSS, Javascript
